@@ -1,0 +1,1 @@
+geth --datadir "D:\BlockcahinData\blockcaindata" init "D:\BlockcahinData\genesis.json"
